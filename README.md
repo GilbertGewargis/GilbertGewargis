@@ -4,7 +4,6 @@ Hi! I'm Gilbert — a passionate and curious developer based in Australia.
 I'm currently studying **Computer Science** with a strong focus on **software engineering**, and I love building things that are fast, secure, and intuitive.
 
 I enjoy working with modern web technologies like **HTML**, **CSS**, **JavaScript**, and **React**, and I'm expanding into **backend development** with **Java**.  
-When I'm not coding, you’ll find me learning about AI, ethical hacking, or experimenting.
 
 ### 💻 Tech Stack
 
