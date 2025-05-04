@@ -1,5 +1,7 @@
 💫 About Me:
 
+<img src="https://github.com/GilbertGewargis/blob/main/ezgif-2da10883ac934d.giff" width="100%" />
+
 Hi! I'm Gilbert — a passionate and curious developer based in Australia.  
 I'm currently studying **Computer Science** with a strong focus on **software engineering**, and I love building things that are fast, secure, and intuitive.
 
